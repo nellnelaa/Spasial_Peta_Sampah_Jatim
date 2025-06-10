@@ -8,7 +8,7 @@ var style_PenangananSampahton_4 = function(feature, resolution){
     };
     
     var labelText = ""; 
-    var value = feature.get("Capaian Sampah - Pengurangan Sampah _Penanganan Sampah");
+    var value = feature.get("Penanganan Sampah");
     var labelFont = "13.0px \'Open Sans\', sans-serif";
     var labelFill = "#000000";
     var bufferColor = "";
